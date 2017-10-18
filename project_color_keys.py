@@ -42,7 +42,6 @@ def space_bar():
 
 #Spacebar for controling the pen
 onkeypress(space_bar, "space")
-listen()
 # Choose a color
 #Press r for Red
 #Press b for Blue
